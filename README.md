@@ -1,4 +1,4 @@
-## 미션1. 반응형 레이아웃 만들기
+## [미션1. 반응형 레이아웃 만들기](https://jobskill.notion.site/1dcef80be65f80d7870aec52d460f4b3?pvs=4)
 
 ## 목표
 
@@ -11,44 +11,14 @@
 ## 개발 조건
 
 1. PC, Tablet, Mobile 구간을 지원하는 반응형 레이아웃 만들기
-    
-    <aside>
-    💡
-    
-    PC: 1440px 이상
-    
-    Tablet: 1440px 미만
-    
-    Mobile: 768px 미만
-    
-    </aside>
-    
 
-1. HTML5, CSS3를 사용하여 Semantic한 마크업 구조 및 Grid, Flexbox를 사용하여 레이아웃 스타일
-    - **Hint**
-        
-        <aside>
-        💡
-        
-        1. max-width를 활용한 ‘최대 너비'를 지정하여 다양한 크기의 디바이스에 대응
-        
-        2. media query를 사용한 display 속성 제어
-        
-        *** HTML Hint**
-        
-        1. Header, Main, Footer외에 Aside 태그의 활용
-        
-        </aside>
-        
+ > PC: 1440px 이상
+ > 
+ > Tablet: 1440px 미만
+ > 
+ > Mobile: 768px 미만
+ > 
+    
+2. HTML5, CSS3를 사용하여 Semantic한 마크업 구조 및 Grid, Flexbox를 사용하여 레이아웃 스타일
 
-1. Heading Level을 적절히 사용하여 문서화 구조 지키기
-    - **Hint**
-        
-        <aside>
-        💡
-        
-        문서의 제목을 나타내는 H1 태그를 시작으로
-        
-        대제목 H2 부터 계층으로 Heading 태그 활용
-        
-        </aside>
+3. Heading Level을 적절히 사용하여 문서화 구조 지키기
